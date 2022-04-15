@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"H:\\UE4_project_C++\\FPSProject\\Source\\FPSProject\\FPSProject.Build.cs",
+		"H:\\UE4_project_C++\\FPSProject\\Source\\FPSProject.Target.cs",
+		"H:\\UE4_project_C++\\FPSProject\\Source\\FPSProjectEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}
